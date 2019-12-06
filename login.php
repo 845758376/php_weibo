@@ -67,7 +67,7 @@
 </div>
 <div class="clear"></div>
 <div class="footer">
-    Copyright@2016吉林省明日科技有限公司
+    Copyright@2019仿微博有限公司
 </div>
 
 <script>
