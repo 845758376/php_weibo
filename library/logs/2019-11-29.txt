@@ -1,0 +1,5 @@
+Time : 09:24:40
+SQLSTATE[HY000] [1049] Unknown database 'weibo'
+
+Time : 09:24:14
+SQLSTATE[HY000] [1049] Unknown database 'weibo'
